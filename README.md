@@ -6,8 +6,15 @@ The main purpose of this analysis is to determine which employees are of retirem
 
 
 ## Results:
+
+-There are 41,380 employees that are near retirement
+
 -Of the employees about to retire, the two job titles that represent the largest groups are Senior Engineer and Senior Staff. There are 29,414 of these employees with the title Senior Engineer, and 28,254 of these employees with the job title Senior Staff.
+
+-The sum of the retiring titles is 90,398. Therefore, there are employees with duplicate titles
+
 -Of the employees about to retire, the least represented job title is manager. Only 2 employees in this group hold that job title.
+
 -There are 1,549 employees eligible for the mentorship program.
 
 ## Summary:
