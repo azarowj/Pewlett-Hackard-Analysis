@@ -23,3 +23,10 @@ There are approximately 41,000 employees that are near retirement. As such, 41,0
 
 ## Images
 
+(https://github.com/azarowj/Pewlett-Hackard-Analysis/blob/main/Data/Image1.png)
+
+(https://github.com/azarowj/Pewlett-Hackard-Analysis/blob/main/Data/Image2.png)
+
+(https://github.com/azarowj/Pewlett-Hackard-Analysis/blob/main/Data/Image3.png)
+
+(https://github.com/azarowj/Pewlett-Hackard-Analysis/blob/main/Data/Image4.png)
